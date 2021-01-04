@@ -3,6 +3,38 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [10.0.0-alpha.9](https://github.com/wopian/kitsu/compare/v10.0.0-alpha.8...v10.0.0-alpha.9) (2021-01-04)
+
+
+### Build System / Dependencies
+
+* update devdependency eslint to ~7.16.0 ([#507](https://github.com/wopian/kitsu/issues/507)) ([5705616](https://github.com/wopian/kitsu/commit/5705616))
+* **deps:** bump node-notifier from 8.0.0 to 8.0.1 ([#506](https://github.com/wopian/kitsu/issues/506)) ([0ab39c2](https://github.com/wopian/kitsu/commit/0ab39c2))
+* update actions/setup-node action to v2 ([#504](https://github.com/wopian/kitsu/issues/504)) ([14222c3](https://github.com/wopian/kitsu/commit/14222c3))
+* update devdependency rollup to ~2.35.0 ([#505](https://github.com/wopian/kitsu/issues/505)) ([18c9d98](https://github.com/wopian/kitsu/commit/18c9d98))
+* **deps:** bump ini from 1.3.5 to 1.3.7 ([#503](https://github.com/wopian/kitsu/issues/503)) ([7943bd4](https://github.com/wopian/kitsu/commit/7943bd4))
+
+
+### Chores
+
+* **release:** update documentation ([5ba556e](https://github.com/wopian/kitsu/commit/5ba556e))
+* **release:** update documentation ([94c76d9](https://github.com/wopian/kitsu/commit/94c76d9))
+
+
+### Other Changes
+
+* Kitsu-core release dir changed from lib/ to dist/ ([2317a4a](https://github.com/wopian/kitsu/commit/2317a4a))
+* Update jest.yml ([f033105](https://github.com/wopian/kitsu/commit/f033105))
+* Update build.yml ([7f448d8](https://github.com/wopian/kitsu/commit/7f448d8))
+* Update build.yml ([7bf46c0](https://github.com/wopian/kitsu/commit/7bf46c0))
+* Update jest.yml ([bcb6024](https://github.com/wopian/kitsu/commit/bcb6024))
+* Update jest.yml ([4c3d68b](https://github.com/wopian/kitsu/commit/4c3d68b))
+* Update build.yml ([97c69b2](https://github.com/wopian/kitsu/commit/97c69b2))
+
+
+
+
+
 # [10.0.0-alpha.8](https://github.com/wopian/kitsu/compare/v10.0.0-alpha.7...v10.0.0-alpha.8) (2020-12-06)
 
 
