@@ -193,18 +193,18 @@ function serialiseRootObject (type, payload, method, options) {
  * import pluralize from 'pluralize'
  *
  * const model = 'anime'
- * const obj = { id: '1', slug: 'shirobako' }
+ * const obj = { id: '1', slug: 'test' }
  *
- * // { data: { id: '1', type: 'anime', attributes: { slug: 'shirobako' } } }
+ * // { data: { id: '1', type: 'anime', attributes: { slug: 'test' } } }
  * const output = serialise(model, obj, 'PATCH', { camelCaseTypes: camel, pluralTypes: pluralize })
  *
  * @example <caption>Basic usage (no case conversion or pluralisation)</caption>
  * import { serialise } from 'kitsu-core'
  *
  * const model = 'anime'
- * const obj = { id: '1', slug: 'shirobako' }
+ * const obj = { id: '1', slug: 'test' }
  *
- * // { data: { id: '1', type: 'anime', attributes: { slug: 'shirobako' } } }
+ * // { data: { id: '1', type: 'anime', attributes: { slug: 'test' } } }
  * const output = serialise(model, obj, 'PATCH')
  */
 export function serialise (type, data = {}, method = 'POST', options = {}) {
